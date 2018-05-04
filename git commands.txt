@@ -13,3 +13,6 @@ $ git diff [adress old] [adress new]
 
 $ git init
 	create an empty git repository
+
+$ git add [file name]
+	add a file in the staging area
