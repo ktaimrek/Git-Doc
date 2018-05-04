@@ -31,3 +31,6 @@ $ git commit
 	Create a commit with the content of the staging area.
 $ git commit --amend
 	Change the commit message of the most recent commit.
+
+
+Use github :
