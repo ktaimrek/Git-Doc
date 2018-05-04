@@ -1,4 +1,4 @@
-git commands :
+Git commands :
 
 $ git clone [url] 
 	Clone the repository at the url to my PC.
@@ -33,4 +33,9 @@ $ git commit --amend
 	Change the commit message of the most recent commit.
 
 
-Use github :
+Use GitHub :
+
+$ git remote 
+	Manage set of tracked repositories.
+$ git remote add [name] [adress]
+	Add the repository on GitHub as a remote
