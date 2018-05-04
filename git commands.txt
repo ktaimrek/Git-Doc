@@ -1,33 +1,33 @@
 git commands :
 
 $ git clone [url] 
-	to clone the repository at the url to my PC
+	Clone the repository at the url to my PC.
 
 $ git log 
-	to see all the commits
+	See all the commits.
 $ git log --stat
-	see all the commit with more informations
+	See all the commit with more informations.
 
 $ git diff [adress old] [adress new]
-	compare 2 commits 
+	Compare 2 commits. 
 $ git diff
-	compare the diffrences between working directory and staging area
+	Compare the diffrences between working directory and staging area.
 $ git diff --staged
-	compare the diffrences between the staging area and the last commit
+	Compare the diffrences between the staging area and the last commit.
 
 $ git init
-	create an empty git repository
+	Create an empty git repository.
 
 $ git status
-	Show the working tree status
+	Show the working tree status.
 
 $ git add [file name]
-	add a file in the staging area
+	Add a file in the staging area.
 
 $ git reset [file name]
-	remove the file from the staging area
+	Remove the file from the staging area.
 
 $ git commit
-	create a commit with the content of the staging area
+	Create a commit with the content of the staging area.
 $ git commit --amend
-	change the commit message of the most recent commit
+	Change the commit message of the most recent commit.
