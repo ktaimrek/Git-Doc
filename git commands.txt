@@ -36,6 +36,8 @@ $ git commit --amend
 Use GitHub :
 
 $ git remote 
-	Manage set of tracked repositories.
+	See the remote of the repository.
+$ git remote -v
+	See the remote of the repository with more informations.
 $ git remote add [name] [adress]
 	Add the repository on GitHub as a remote
