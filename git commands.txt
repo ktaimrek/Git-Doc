@@ -23,3 +23,8 @@ $ git add [file name]
 
 $ git reset [file name]
 	remove the file from the staging area
+
+$ git commit
+	create a commit with the content of the staging area
+$ git commit --amend
+	change the commit message of the most recent commit
