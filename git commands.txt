@@ -2,3 +2,8 @@ git commands :
 
 $ git clone [url] 
 	to clone the repository at the url to my PC
+
+$ git log 
+	to see all the commits
+$ git log --stat
+	see all the commit with more informations
