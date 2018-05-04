@@ -1,1 +1,4 @@
 git commands :
+
+$ git clone [url] 
+	to clone the repository at the url to my PC
