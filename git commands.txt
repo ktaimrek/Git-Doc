@@ -9,4 +9,7 @@ $ git log --stat
 	see all the commit with more informations
 
 $ git diff [adress old] [adress new]
-	compare 2 commits
+	compare 2 commits 
+
+$ git init
+	create an empty git repository
