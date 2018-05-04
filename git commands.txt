@@ -10,6 +10,10 @@ $ git log --stat
 
 $ git diff [adress old] [adress new]
 	compare 2 commits 
+$ git diff
+	compare the diffrences between working directory and staging area
+$ git diff --staged
+	compare the diffrences between the staging area and the last commit
 
 $ git init
 	create an empty git repository
