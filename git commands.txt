@@ -16,3 +16,6 @@ $ git init
 
 $ git add [file name]
 	add a file in the staging area
+
+$ git reset [file name]
+	remove the file from the staging area
