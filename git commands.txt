@@ -31,16 +31,3 @@ $ git commit
 	Create a commit with the content of the staging area.
 $ git commit --amend
 	Change the commit message of the most recent commit.
-
-
-Use GitHub :
-
-$ git remote 
-	See the remote of the repository.
-$ git remote -v
-	See the remote of the repository with more informations.
-$ git remote add [name] [adress]
-	Add the repository on GitHub as a remote
-
-$ git push [remote] [branch]
-	Send the changes to the remote
