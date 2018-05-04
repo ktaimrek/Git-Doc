@@ -18,6 +18,9 @@ $ git diff --staged
 $ git init
 	create an empty git repository
 
+$ git status
+	Show the working tree status
+
 $ git add [file name]
 	add a file in the staging area
 
