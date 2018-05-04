@@ -7,3 +7,6 @@ $ git log
 	to see all the commits
 $ git log --stat
 	see all the commit with more informations
+
+$ git diff [adress old] [adress new]
+	compare 2 commits
